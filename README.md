@@ -44,7 +44,7 @@ The goal of this project is to present my professional background and technical 
 ---
 
 ## 📸 Preview
-👉 **Live Demo:** [https://Chetanpatil03.github.io/portfolio](https://Chetanpatil03.github.io/portfolio_main)
+👉 **Live Demo:** https://prafullanile.github.io/PortFolio/
 
 ---
 
@@ -54,5 +54,5 @@ If you’d like to connect or collaborate, feel free to reach out:
 
 - **Name:** Prafulla Nile
 - **Email:** prafullnile9@gmail.com 
-- **GitHub:** [github.com/Chetanpatil03](https://github.com/Chetanpatil03)  
-- **LinkedIn:** [www.linkedin.com/in/chetan-bachchhav03]
+- **GitHub:** https://github.com/prafullanile)  
+- **LinkedIn:** https://www.linkedin.com/in/prafulla-nile-1393602a5/
